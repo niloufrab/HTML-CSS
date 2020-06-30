@@ -1,0 +1,25 @@
+h2 {
+  clear: both;
+}
+
+.grid-item {
+  width: 200px;
+  height: ;
+  list-style: none;
+  margin: 25px;
+  float: left;
+}
+
+img {
+  width: 33%;
+}
+
+#grid-floats {
+}
+
+#grid-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  clear: both;
+}
